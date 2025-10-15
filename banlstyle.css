@@ -11,7 +11,7 @@ body{
 }
 /*navbar*/
 nav {
-    background-color: blueviolet;
+    background-color: black;
     color: #fff;
     padding:1rem 2rem;
     display:flex;
@@ -151,4 +151,5 @@ table tr:hover{
 .debit{
     color: red;
     font-weight: bold;
+
 }
